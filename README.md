@@ -1,1 +1,2 @@
-# chrome-extension
+### 文章
+- [【实战】Chrome V3插件开发，只看这一篇文章就够了 ](https://juejin.cn/post/7229238405406294074)
