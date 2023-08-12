@@ -1,7 +1,5 @@
-#### 框架
-- [Plasmo](https://github.com/PlasmoHQ/plasmo)
-
 #### 文档
+- [Plasmo 文档](https://docs.plasmo.com/framework)
 - [Plasmo 中文文档](https://github.com/PlasmoHQ/plasmo/blob/main/cli/plasmo/i18n/README.zh-CN.md)
 - [Chrome APIs](https://sunnyzhou-1024.github.io/chrome-extension-docs/extensions/api_index.html)
 
