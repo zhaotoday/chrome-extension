@@ -10,6 +10,7 @@
 - [Plasmo](https://github.com/PlasmoHQ/plasmo)
 
 #### 视频
+- [浏览器插件开发教程](https://www.bilibili.com/video/BV1c84y18738?p=1)
 - [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
 
 #### 示例
