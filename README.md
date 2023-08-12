@@ -14,6 +14,7 @@
 
 #### 示例
 - https://github.com/choumai555/vue-chrome-extension-mv3
+- https://github.com/PlasmoHQ/examples
 
 #### 文档
 - [Chrome APIs](https://sunnyzhou-1024.github.io/chrome-extension-docs/extensions/api_index.html)
