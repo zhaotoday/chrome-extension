@@ -6,5 +6,11 @@
 - [chrome V3插件入门到放弃，Plasmo不完全使用指南](https://juejin.cn/post/7138820996840030215)
 - [手把手教你你用vue，开发chrome V3浏览器插件！！](https://juejin.cn/post/7194367206753304633)
 
+#### 框架
+- [Plasmo](https://github.com/PlasmoHQ/plasmo)
+
+#### 视频
+- [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
+
 #### 示例
 - https://github.com/choumai555/vue-chrome-extension-mv3
