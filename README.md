@@ -2,6 +2,7 @@
 - [Plasmo 文档](https://docs.plasmo.com/framework)
 - [Plasmo 中文文档](https://github.com/PlasmoHQ/plasmo/blob/main/cli/plasmo/i18n/README.zh-CN.md)
 - [Chrome APIs](https://sunnyzhou-1024.github.io/chrome-extension-docs/extensions/api_index.html)
+- [Menifest](https://developer.chrome.com/docs/extensions/mv3/manifest/)
 
 #### 文章
 - [Chrome扩展开发指南](https://juejin.cn/post/7223315092858224695)
