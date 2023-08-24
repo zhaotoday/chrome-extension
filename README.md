@@ -11,6 +11,7 @@
 - [从零深入Chrome插件开发](https://juejin.cn/post/7035782439590952968)
 - [chrome V3插件入门到放弃，Plasmo不完全使用指南](https://juejin.cn/post/7138820996840030215)
 - [手把手教你你用vue，开发chrome V3浏览器插件！！](https://juejin.cn/post/7194367206753304633)
+- [谷歌扩展Chrome Extension配置自动更新](http://www.taodudu.cc/news/show-5276141.html)
 
 #### 视频
 - [浏览器插件开发教程](https://www.bilibili.com/video/BV1c84y18738?p=1)
