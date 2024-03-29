@@ -16,6 +16,7 @@
 - [谷歌扩展Chrome Extension配置自动更新](http://www.taodudu.cc/news/show-5276141.html)
 
 #### 视频
+- [🎉让浏览器插件开发从此更简单！快来尝试wxt框架吧！](https://www.bilibili.com/video/BV16x4y1S7dj/)
 - [浏览器插件开发教程](https://www.bilibili.com/video/BV1c84y18738?p=1)
 - [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
 
