@@ -19,6 +19,7 @@
 - [让浏览器插件开发从此更简单！快来尝试wxt框架吧！](https://www.bilibili.com/video/BV16x4y1S7dj/)
 - [浏览器插件开发教程](https://www.bilibili.com/video/BV1c84y18738?p=1)
 - [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
+- [2024 浏览器扩展开发必备：CRXJS Vite Plugin](https://www.bilibili.com/video/BV17G411Y7ni/)
 
 #### 示例
 - https://github.com/wxt-dev/wxt-examples
