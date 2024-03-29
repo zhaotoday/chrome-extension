@@ -21,6 +21,7 @@
 - [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
 
 #### 示例
+- https://github.com/wxt-dev/wxt-examples
 - https://github.com/choumai555/vue-chrome-extension-mv3
 - https://github.com/PlasmoHQ/examples
 - https://github.com/GoogleChrome/chrome-extensions-samples
