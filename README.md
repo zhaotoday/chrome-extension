@@ -6,6 +6,7 @@
 - [Menifest](https://developer.chrome.com/docs/extensions/mv3/manifest/)
 
 #### 文章
+- [下一代浏览器插件开发框架 WXT 入门指南](https://juejin.cn/post/7329724409429917705)
 - [Chrome扩展开发指南](https://juejin.cn/post/7223315092858224695)
 - [chrome插件最新版本开发指南来了](https://juejin.cn/post/7051466934948200461)
 - [【实战】Chrome V3插件开发，只看这一篇文章就够了 ](https://juejin.cn/post/7229238405406294074)
