@@ -4,6 +4,7 @@
 - [Plasmo 中文文档](https://github.com/PlasmoHQ/plasmo/blob/main/cli/plasmo/i18n/README.zh-CN.md)
 - [Chrome APIs](https://sunnyzhou-1024.github.io/chrome-extension-docs/extensions/api_index.html)
 - [Menifest](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+- [CRXJS](https://github.com/crxjs)
 
 #### 文章
 - [下一代浏览器插件开发框架 WXT 入门指南](https://juejin.cn/post/7329724409429917705)
