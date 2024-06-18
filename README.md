@@ -15,6 +15,7 @@
 - [chrome V3插件入门到放弃，Plasmo不完全使用指南](https://juejin.cn/post/7138820996840030215)
 - [手把手教你你用vue，开发chrome V3浏览器插件！！](https://juejin.cn/post/7194367206753304633)
 - [谷歌扩展Chrome Extension配置自动更新](http://www.taodudu.cc/news/show-5276141.html)
+- [CRX3](https://sigwait.org/~alex/blog/2019/04/01/crx3.html)
 
 #### 视频
 - [让浏览器插件开发从此更简单！快来尝试wxt框架吧！](https://www.bilibili.com/video/BV16x4y1S7dj/)
