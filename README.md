@@ -22,6 +22,9 @@
 - [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
 - [2024 浏览器扩展开发必备：CRXJS Vite Plugin](https://www.bilibili.com/video/BV17G411Y7ni/)
 
+#### 工具
+- [crx3-utils](https://github.com/gromnitsky/crx3-utils)
+
 #### 示例
 - https://github.com/wxt-dev/wxt-examples
 - https://github.com/choumai555/vue-chrome-extension-mv3
