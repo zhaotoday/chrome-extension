@@ -24,6 +24,7 @@
 
 #### 工具
 - [crx3-utils](https://github.com/gromnitsky/crx3-utils)
+- [node-crx-util](https://github.com/ssnangua/node-crx-util)
 
 #### 示例
 - https://github.com/wxt-dev/wxt-examples
