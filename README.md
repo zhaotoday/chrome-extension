@@ -23,6 +23,9 @@
 - [浏览器插件开发指南](https://www.bilibili.com/video/BV1VM4y1h7ms)
 - [2024 浏览器扩展开发必备：CRXJS Vite Plugin](https://www.bilibili.com/video/BV17G411Y7ni/)
 
+#### 模板
+- [extension.js](https://github.com/extension-js/extension.js)
+
 #### 库
 - [crx-to-zip](https://github.com/Rob--W/crxviewer/blob/master/src/lib/crx-to-zip.js)
 - [crx3-utils](https://github.com/gromnitsky/crx3-utils)
