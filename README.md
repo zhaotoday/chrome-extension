@@ -5,6 +5,7 @@
 - [Chrome APIs](https://sunnyzhou-1024.github.io/chrome-extension-docs/extensions/api_index.html)
 - [Menifest](https://developer.chrome.com/docs/extensions/mv3/manifest/)
 - [CRXJS](https://crxjs.dev/vite-plugin/)
+- [确保安全](https://developer.chrome.com/docs/extensions/develop/security-privacy/stay-secure?hl=zh-cn)
 
 #### 文章
 - [下一代浏览器插件开发框架 WXT 入门指南](https://juejin.cn/post/7329724409429917705)
