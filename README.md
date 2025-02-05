@@ -5,6 +5,7 @@
 - [Chrome APIs](https://sunnyzhou-1024.github.io/chrome-extension-docs/extensions/api_index.html)
 - [Menifest](https://developer.chrome.com/docs/extensions/mv3/manifest/)
 - [CRXJS](https://crxjs.dev/vite-plugin/)
+- [Chrome 扩展程序参考文档](https://developer.chrome.com/docs/extensions/reference?hl=zh-cn)
 - [Chrome Extensions](https://developer.chrome.com/docs/extensions?hl=zh-cn)
 - [确保安全](https://developer.chrome.com/docs/extensions/develop/security-privacy/stay-secure?hl=zh-cn)
 
