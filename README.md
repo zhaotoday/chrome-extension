@@ -35,6 +35,9 @@
 - [node-crx-util](https://github.com/ssnangua/node-crx-util)
 - [webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
 
+#### 插件
+- [NiceTab](https://github.com/web-dahuyou/NiceTab)
+
 #### 示例
 - https://github.com/wxt-dev/wxt-examples
 - https://github.com/choumai555/vue-chrome-extension-mv3
