@@ -1,4 +1,5 @@
 #### 文档
+- [API 参考](https://developer.chrome.google.cn/docs/extensions/reference/api?hl=zh-cn)
 - [WXT 文档](https://wxt.dev/)
 - [Plasmo 文档](https://docs.plasmo.com/framework)
 - [Plasmo 中文文档](https://github.com/PlasmoHQ/plasmo/blob/main/cli/plasmo/i18n/README.zh-CN.md)
