@@ -11,6 +11,7 @@
 - [确保安全](https://developer.chrome.com/docs/extensions/develop/security-privacy/stay-secure?hl=zh-cn)
 
 #### 文章
+- [《⚡️万字速通 Chrome 扩展开发 🔥》](https://juejin.cn/post/7462243079887224866)
 - [来学个值钱的技巧，Chrome插件如何优雅的捕获页面的请求结果](https://juejin.cn/post/7414379019821924403)
 - [关于浏览器插件开源模板库对比分析](https://juejin.cn/post/7493773432442781735)
 - [下一代浏览器插件开发框架 WXT 入门指南](https://juejin.cn/post/7329724409429917705)
