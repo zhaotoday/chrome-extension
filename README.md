@@ -32,6 +32,7 @@
 
 #### 模板
 - [extension.js](https://github.com/extension-js/extension.js)
+- [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 
 #### 库
 - [crx-to-zip](https://github.com/Rob--W/crxviewer/blob/master/src/lib/crx-to-zip.js)
