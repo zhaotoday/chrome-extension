@@ -43,6 +43,7 @@
 
 #### 插件
 - [NiceTab](https://github.com/web-dahuyou/NiceTab)
+- [playwright-crx](https://github.com/ruifigueira/playwright-crx)
 
 #### 示例
 - https://github.com/wxt-dev/wxt-examples
