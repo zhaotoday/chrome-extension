@@ -35,6 +35,7 @@
 - [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 
 #### 库
+- [crx3](https://github.com/ahwayakchih/crx3)
 - [crx-to-zip](https://github.com/Rob--W/crxviewer/blob/master/src/lib/crx-to-zip.js)
 - [crx3-utils](https://github.com/gromnitsky/crx3-utils)
 - [node-crx-util](https://github.com/ssnangua/node-crx-util)
