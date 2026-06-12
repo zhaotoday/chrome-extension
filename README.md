@@ -9,6 +9,7 @@
 - [Chrome 扩展程序参考文档](https://developer.chrome.com/docs/extensions/reference?hl=zh-cn)
 - [Chrome Extensions](https://developer.chrome.com/docs/extensions?hl=zh-cn)
 - [确保安全](https://developer.chrome.com/docs/extensions/develop/security-privacy/stay-secure?hl=zh-cn)
+- [Configure a consistent CRX ID for your Chrome Extension](https://clerk.com/docs/core-2/guides/development/configure-consistent-crx-id)
 
 #### 文章
 - [Chrome插件开发完整指南](https://juejin.cn/post/7519026334461034548)
